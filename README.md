@@ -1,2 +1,4 @@
 # BootcampOdev5!
-![ezgif com-resize](https://github.com/Skywalkerkan/AndroidBootcampOdev5/assets/117943189/bedebbf7-8b9d-4a45-bceb-f537be9091e2)
+
+![Gif](https://github.com/Skywalkerkan/AndroidBootcampOdev5/assets/117943189/79bac2bf-6577-4fb6-87c3-4aec7ede6c6c)
+
