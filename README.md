@@ -2,5 +2,5 @@
 
 
 
+![Gif](https://github.com/Skywalkerkan/AndroidBootcampOdev5/assets/117943189/432fd492-40c5-4d79-b271-9a6215cb4689){width=200px height=400px}
 
-![Gif](https://github.com/Skywalkerkan/AndroidBootcampOdev5/assets/117943189/153e3674-e48f-4fc9-a946-e1eb35d94f72 =250x400)
