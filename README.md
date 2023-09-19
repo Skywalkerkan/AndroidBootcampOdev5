@@ -1,6 +1,3 @@
 # BootcampOdev5!
 
-
-
-
-![Gif](https://github.com/Skywalkerkan/AndroidBootcampOdev5/assets/117943189/85362aef-6a3e-4377-8864-362115ac1bcb)
+![Gif](https://github.com/Skywalkerkan/AndroidBootcampOdev5/assets/117943189/a2e385b2-01ed-426d-8606-3fb78d2e20e5)
